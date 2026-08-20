@@ -1,0 +1,52 @@
+*{
+    margin:0;
+    padding:0;
+}
+nav a{
+    padding: 5px;
+}
+nav a{
+     text-decoration: none;
+     margin-left:55px;
+     padding:5px;
+     
+
+}
+header{
+    background-color: palegreen;
+    height: 30px; 
+    }
+#second{
+    height: 50px;
+    width: 50px;
+    background-color: green;
+    border-radius: 50px;
+}
+.box{
+    height: 100px;
+    width: 100px;
+    margin: 5px;
+    background-color: pink;
+    display: inline-block;
+    }
+    #box2{
+        z-index: 2;
+        position: absolute;
+        left: 20px;
+    }
+    #container{
+        border:3px solid;
+        margin: 5px;
+    }
+#box{
+    position: fixed;
+    right: 10px;
+    background-color: brown;
+    height: 100px;
+    width: 100px;
+}
+footer{
+    position: fixed;
+    bottom: 0px;
+    background-color: aquamarine;
+}
