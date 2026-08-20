@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <header>
+         <nav>
+            <a href="#content">content</a>
+         </nav>
+    <main>
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aperiam recusandae voluptates ut odit fugiat, quos sed repudiandae laudantium. Magnam cum quasi necessitatibus, facilis soluta labore odio officia obcaecati. A, blanditiis! Voluptas impedit sunt, optio unde nobis, suscipit illo odit nisi natus blanditiis iure deserunt id! Autem facilis doloremque delectus impedit, aliquid fuga. Reprehenderit ut explicabo incidunt commodi obcaecati? Amet nostrum omnis inventore iure, recusandae perspiciatis nesciunt modi aspernatur dolorem accusantium suscipit eligendi corrupti vero pariatur excepturi! Exercitationem facilis voluptates ex, quis, odio, repudiandae deserunt amet sint omnis ullam eos at sequi? Vel a, recusandae dolorem minima beatae harum! Animi perferendis eius libero quisquam optio, quaerat natus nobis odit amet eos voluptas dicta sit, illo quo debitis ipsam dolorem temporibus excepturi delectus voluptatum cumque iste? Tempore fugit, ut ad illo voluptatum quos consequuntur tenetur blanditiis? Est necessitatibus dolore debitis culpa rem minima repellat nam. Eaque ullam quidem quod labore aliquam accusantium quaerat sed facilis atque sapiente voluptates suscipit quam magnam nam sint vero, omnis cupiditate facere dolorum esse corrupti. Ab cupiditate ipsa similique aspernatur obcaecati, mollitia eligendi tempore quidem, consequatur eos itaque aliquam. Veritatis eos aut excepturi quod, molestias dolorem, nihil ipsum consequuntur sint a expedita accusantium odio modi vel suscipit optio voluptas, blanditiis architecto hic atque asperiores! Recusandae et, voluptatibus sunt illo rerum amet corporis repellendus tenetur fugiat pariatur nobis nisi ipsa eos qui animi iusto mollitia a delectus odit consectetur id veritatis, temporibus magni voluptas? Maxime, distinctio quaerat. Quos delectus, natus officia aliquid maxime ipsam sequi asperiores molestias. Eaque asperiores recusandae, consectetur et veniam nihil ullam quis, at aliquid repellat nesciunt blanditiis deleniti voluptas quisquam nemo. Ab voluptates adipisci, facilis quidem impedit culpa alias, expedita pariatur iusto reprehenderit eius assumenda id dicta nam magni in rem molestiae autem totam debitis beatae! Reprehenderit veritatis itaque adipisci, eaque dolorem vitae recusandae vel debitis sapiente assumenda nam ad maxime animi placeat, voluptatibus illo quod repellat? Illo, cumque omnis maxime quisquam laborum architecto tempore. Quasi alias, odit, expedita ex incidunt officia quod porro dolorem harum itaque perspiciatis voluptas ipsum provident consequatur officiis quisquam, accusamus numquam corporis tempore doloremque in perferendis cum a iusto. Esse nostrum ea aliquid, magnam consectetur architecto dolor nam illum ducimus aperiam dolorem facilis placeat non atque delectus repellat nisi. Sed reprehenderit ipsum saepe consequatur soluta mollitia magnam repudiandae, nemo quaerat. Similique aliquid quaerat officia consectetur consequatur ducimus, labore, vel beatae repellat delectus voluptas dolores doloribus reiciendis. Saepe enim fugit quasi labore, odit inventore expedita et distinctio eveniet error possimus nemo illum fugiat consequuntur. Eum, recusandae at exercitationem doloremque excepturi iure, expedita hic voluptatibus voluptates nostrum fugiat error neque labore sed veritatis, ipsum nihil? A fuga, temporibus nobis vel eaque dolorum qui ut similique? Natus in placeat iste necessitatibus laborum ea totam nobis numquam aut vitae quae atque consequuntur ad minus asperiores porro eaque quidem nemo, cumque sit provident dolorem nulla? Tempora qui, ea alias, voluptatem expedita, aspernatur accusantium consequatur quaerat similique veritatis perferendis? Autem ea magni laudantium doloremque quasi, itaque vero quisquam qui veritatis aut beatae numquam deleniti harum.
+        </p>
+        <p id="content">Lorem ipsum dolor sit amet consectetur adipisicing elit. Excepturi deserunt tempore omnis architecto voluptatem voluptas est id recusandae blanditiis impedit.
+
+        </p>
+           
+        
+    </main>
+
+
+
+    </header>
+</body>
+</html>

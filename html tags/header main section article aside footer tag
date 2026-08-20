@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <header>header</header>
+    <main>
+         <section>
+       <h2>admission</h2>
+       <h2>admission is open</h2>
+         </section>    
+       
+     <section>
+              <h2>placements</h2>   
+
+     </section>
+        
+        <article>
+               Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque, natus? Expedita a saepe nisi earum officia, repudiandae porro dignissimos eveniet, incidunt eligendi excepturi neque cupiditate qui soluta ad laborum architecto quisquam, suscipit et quae eum quia! Cum optio ea illo nobis fuga cupiditate sit illum, repellat vel. Fugiat, non rerum. Voluptas perferendis officia ratione, nemo sequi eius iure? Tempora error libero repellendus excepturi exercitationem sequi. Esse blanditiis laboriosam quidem soluta eos consequatur consequuntur adipisci maiores, voluptas ea mollitia nobis, enim repellendus autem fugit hic illo error architecto dolore maxime. Labore placeat dolore adipisci eius illo quam tempora velit ex laborum doloremque itaque, porro error eum possimus, amet dolores eos natus iusto quaerat molestiae mollitia architecto esse harum! Adipisci nostrum dolor nisi odio ipsam? Delectus quam, quisquam tempore corrupti aspernatur beatae iste perferendis nostrum nam commodi rerum, itaque, natus id culpa veniam. Corrupti doloremque, eligendi id ab dolorum expedita officia voluptas omnis eaque aperiam ea explicabo, consequuntur, labore inventore tenetur. Suscipit unde illo consectetur aliquam est! Voluptas corrupti consequatur eos quasi dolorem beatae, voluptates error fuga perferendis nemo aspernatur consectetur! Ipsam id optio quas aliquid reiciendis magnam corporis magni repellendus labore obcaecati. Qui eius ut magnam voluptatum error, fugit iste sed consectetur mollitia perspiciatis ab ad facere sint consequatur laborum dolorum quae molestias distinctio! Sit praesentium ea fugit asperiores dolorum, blanditiis labore, saepe tempora dignissimos earum voluptates ut omnis quidem nulla nam hic minima consectetur! Eius, iusto! Minus cupiditate harum perspiciatis similique expedita nisi aspernatur adipisci doloribus consequatur eaque, odit deserunt enim! Sit totam numquam quod voluptatem quas, amet sequi odio ea temporibus quis aperiam, nisi aliquam voluptate itaque voluptas. Sapiente cupiditate enim nam maxime dolore, deleniti explicabo nihil sunt voluptatibus fugiat quisquam nisi earum odio accusantium adipisci? Expedita in consequatur, vitae quo et, possimus ratione autem nobis, quos nemo provident natus sequi delectus quisquam aliquam repudiandae explicabo blanditiis sapiente corrupti aspernatur architecto assumenda voluptates neque? Obcaecati, a vel? Non dignissimos eum beatae molestias exercitationem, officiis voluptatum odit reiciendis iure rerum voluptates, harum corrupti veniam molestiae cupiditate dolorum fuga explicabo nam! Ex odio ducimus, beatae voluptas excepturi rem amet unde, itaque error corrupti nam culpa laborum officia omnis saepe natus optio modi pariatur provident, mollitia quod veniam. Facere delectus a, nostrum odio consequatur adipisci eveniet numquam sequi est saepe facilis corporis corrupti alias autem, optio ab enim assumenda veniam minus! Debitis reiciendis quod nam distinctio fugiat? Autem, reprehenderit nihil. Corporis doloribus iure placeat voluptate ullam earum ad eius expedita saepe eos eaque pariatur culpa illo ipsam maiores, reiciendis ab ratione deleniti fuga fugiat officiis neque eligendi! Ipsam, et. Accusantium, porro, consectetur reprehenderit aut tempora libero dignissimos voluptas sint molestiae aliquam maiores quae unde debitis neque quos labore odit, repudiandae recusandae. Quaerat eum consectetur dolore consequuntur maiores. Esse eius, est illo veniam corrupti consequuntur accusamus quibusdam maxime assumenda ipsa labore. Veniam voluptatibus voluptatem deleniti unde nihil. Recusandae qui, fugit modi cumque deleniti amet, ea eos illum et, labore iusto dolore nihil in. Voluptatibus obcaecati, nam facere vero a eveniet odio exercitationem deserunt.
+
+
+        </article>
+
+      <aside>
+        This is not related
+      </aside>
+
+        </main>
+        
+            <hr>
+      <footer>
+            - First link <br>
+            - Second link <br>
+            - Third link
+      </footer>
+
+
+
+</body>
+</html>
